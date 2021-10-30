@@ -1,0 +1,42 @@
+{
+    "name": "Desperdicio_go",
+    "short_name": "D_GO",
+    "theme_color": "#f8f9fa",
+    "background_color": "#2196f3",
+    "display": "standalone",
+    "orientation": "landscape",
+    "scope": "/index.php",
+    "start_url": "/index.php",
+    "icons":
+        [
+        {
+            "src": "/public/images/launcher-icon-2x.png",
+            "sizes": "52x52",
+            "type": "image/png"
+        }
+        ,
+        {
+            "src": "/public/images/launcher-icon-3x.png",
+            "sizes": "58x58",
+            "type": "image/png"
+
+        }
+        ,
+        {
+            "src": "/public/images/launcher-icon-4x.png",
+            "sizes": "100x100",
+            "type": "image/png"
+
+        }
+        ,
+        {
+            "src": "/public/images/launcher-icon-5x.png",
+            "sizes": "167x167",
+            "type": "image/png"
+
+        }
+        
+    ]
+
+    }
+  
